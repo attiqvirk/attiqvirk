@@ -1,7 +1,7 @@
 Welcome to my GitHub profile! I'm a skilled WordPress developer with over 1.5 years of experience in building dynamic and visually appealing websites. I'm passionate about creating efficient and user-friendly WordPress solutions to help businesses establish their online presence.
 
 About Me
-💻 WordPress Developer with 1+ years of experience
+💻 WordPress Developer with 1.5 years of experience
 🌐 Specialized in developing custom WordPress themes and plugins
 🎨 Proficient in HTML, CSS, PHP, and JavaScript
 🚀 Experienced in working with popular WordPress frameworks and CMS platforms
