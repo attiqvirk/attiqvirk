@@ -4,7 +4,7 @@ I'm Attiq Virk, a WordPress Developer with over 3 years of professional experien
 
 🧑‍💻 About Me
 
-💼 WordPress Developer with 3+ years of hands-on experience
+💼 WordPress Developer with 4+ years of hands-on experience
 🎨 Expert in Elementor Pro, WooCommerce, and Theme Customization
 💻 Skilled in HTML, CSS, JavaScript, and PHP
 ⚙️ Experienced in custom theme and plugin development
